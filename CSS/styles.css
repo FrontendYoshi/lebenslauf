@@ -127,3 +127,13 @@ div > p {
 /* .reference ~ p {
     color: green; */
 /* } */
+
+p {
+    color: #080808;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #D3D3D3;
+}
